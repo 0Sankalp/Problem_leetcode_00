@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0101-symmetric-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/0Sankalp/leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -99,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
