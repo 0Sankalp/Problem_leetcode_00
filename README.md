@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/0Sankalp/leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,20 +108,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
