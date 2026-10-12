@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/0Sankalp/leetcode_java/tree/master/1288-remove-covered-intervals) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
 ## Topological Sort
 |  |
