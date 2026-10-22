@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/0Sankalp/leetcode_java/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0Sankalp/leetcode_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/0Sankalp/leetcode_java/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/0Sankalp/leetcode_java/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/0Sankalp/leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
 | [1301-number-of-paths-with-max-score](https://github.com/0Sankalp/leetcode_java/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/0Sankalp/leetcode_java/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
