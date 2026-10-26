@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0Sankalp/leetcode_java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0Sankalp/leetcode_java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/0Sankalp/leetcode_java/tree/master/1929-concatenation-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/0Sankalp/leetcode_java/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/0Sankalp/leetcode_java/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0Sankalp/leetcode_java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
