@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0Sankalp/leetcode_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/0Sankalp/leetcode_java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/0Sankalp/leetcode_java/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/0Sankalp/leetcode_java/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0Sankalp/leetcode_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/0Sankalp/leetcode_java/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/0Sankalp/leetcode_java/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/0Sankalp/leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/0Sankalp/leetcode_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/0Sankalp/leetcode_java/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0Sankalp/leetcode_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/0Sankalp/leetcode_java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
 ## Topological Sort
 |  |
