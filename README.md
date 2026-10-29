@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0Sankalp/leetcode_java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/0Sankalp/leetcode_java/tree/master/0006-zigzag-conversion) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0Sankalp/leetcode_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0Sankalp/leetcode_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0Sankalp/leetcode_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/0Sankalp/leetcode_java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/0Sankalp/leetcode_java/tree/master/1929-concatenation-of-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
