@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/0Sankalp/leetcode_java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0Sankalp/leetcode_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0Sankalp/leetcode_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/0Sankalp/leetcode_java/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0Sankalp/leetcode_java/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/0Sankalp/leetcode_java/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0Sankalp/leetcode_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/0Sankalp/leetcode_java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
