@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/0Sankalp/leetcode_java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0Sankalp/leetcode_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/0Sankalp/leetcode_java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
