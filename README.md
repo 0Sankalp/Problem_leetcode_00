@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0Sankalp/leetcode_java/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/0Sankalp/leetcode_java/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/0Sankalp/leetcode_java/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0Sankalp/leetcode_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/0Sankalp/leetcode_java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
