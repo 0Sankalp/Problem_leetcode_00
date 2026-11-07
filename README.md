@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/0Sankalp/leetcode_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/0Sankalp/leetcode_java/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/0Sankalp/leetcode_java/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0Sankalp/leetcode_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/0Sankalp/leetcode_java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
