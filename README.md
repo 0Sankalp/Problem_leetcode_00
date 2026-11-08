@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/0Sankalp/leetcode_java/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0Sankalp/leetcode_java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0Sankalp/leetcode_java/tree/master/0101-symmetric-tree) |
+| [1267-count-servers-that-communicate](https://github.com/0Sankalp/leetcode_java/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0Sankalp/leetcode_java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/0Sankalp/leetcode_java/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/0Sankalp/leetcode_java/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
+| [1267-count-servers-that-communicate](https://github.com/0Sankalp/leetcode_java/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/0Sankalp/leetcode_java/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/0Sankalp/leetcode_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/0Sankalp/leetcode_java/tree/master/1301-number-of-paths-with-max-score) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
+| [1267-count-servers-that-communicate](https://github.com/0Sankalp/leetcode_java/tree/master/1267-count-servers-that-communicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/0Sankalp/leetcode_java/tree/master/0037-sudoku-solver) |
+| [1267-count-servers-that-communicate](https://github.com/0Sankalp/leetcode_java/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/0Sankalp/leetcode_java/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/0Sankalp/leetcode_java/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/0Sankalp/leetcode_java/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/0Sankalp/leetcode_java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
