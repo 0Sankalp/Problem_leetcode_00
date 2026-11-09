@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0Sankalp/leetcode_java/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/0Sankalp/leetcode_java/tree/master/0010-regular-expression-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/0Sankalp/leetcode_java/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/0Sankalp/leetcode_java/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/0Sankalp/leetcode_java/tree/master/0010-regular-expression-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/0Sankalp/leetcode_java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/0Sankalp/leetcode_java/tree/master/1768-merge-strings-alternately) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/0Sankalp/leetcode_java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/0Sankalp/leetcode_java/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/0Sankalp/leetcode_java/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0Sankalp/leetcode_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0Sankalp/leetcode_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
