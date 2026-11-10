@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/0Sankalp/leetcode_java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/0Sankalp/leetcode_java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/0Sankalp/leetcode_java/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/0Sankalp/leetcode_java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/0Sankalp/leetcode_java/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/0Sankalp/leetcode_java/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/0Sankalp/leetcode_java/tree/master/3693-climbing-stairs-ii) |
 ## Graph Theory
 |  |
 | ------- |
