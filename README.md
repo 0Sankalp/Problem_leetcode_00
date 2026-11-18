@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/0Sankalp/leetcode_java/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0Sankalp/leetcode_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0Sankalp/leetcode_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/0Sankalp/leetcode_java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/0Sankalp/leetcode_java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/0Sankalp/leetcode_java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/0Sankalp/leetcode_java/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0Sankalp/leetcode_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/0Sankalp/leetcode_java/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/0Sankalp/leetcode_java/tree/master/0561-array-partition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/0Sankalp/leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/0Sankalp/leetcode_java/tree/master/3789-minimum-cost-to-acquire-required-items) |
